@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Apify storage
+apify_storage/
+
+# Virtual environments
+venv/
+.env

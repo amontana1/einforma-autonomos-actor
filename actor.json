@@ -1,0 +1,12 @@
+{
+  "name": "einforma-autonomos",
+  "version": "0.0.1",
+  "description": "Scraper de autónomos de einforma.com",
+  "buildTag": "latest",
+  "main": "scraper.py",
+  "memoryMbytes": 1024,
+  "timeoutSecs": 3600,
+  "env": {
+    "APIFY_PERSIST_STORAGE": "1"
+  }
+}
